@@ -1,0 +1,10 @@
+Things To Do :
+
+1. Connect with Harshavardhan Reddy to get all Pipeline Access 
+
+2. Create one repository in Azure Repos and tell to Sreedhar to push code in this repository ( Better inform to Avinash before asking to sreedhaar).
+
+3. Create Build Pipelines for dot net core project for IGuru Prep and IGuru ERP till Artifact is generated and Release Pipelines will do after getting complete dot net core project.
+
+
+
