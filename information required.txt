@@ -1,0 +1,11 @@
+https://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs.aspx
+
+
+call to suraj for connecting his system , once  his system is connected
+call to Vamshi(Developer) to get the info about git in visual studio 2015 (ela mi developers visual studio use chestharu?...code push , code pull , after settuping branch policies)
+ippudu mi branch Vamshi vundhi , mi branch nunchi develop branch ki code push cheyyali general ga but mi branch nunchi avinash branch ki anukokundi push chesesthe ela? ala push cheyyakunda vundadaniki manam emaina restrictions cheyyacha?)
+ippudu general ga  manam manual ga files anni thesukuni copy chesi oka kotha folder lo petti aa files anni push chesthamu kadha , adhe ippudu code editor tool vaadithe kotha file attendance functionality medha work chesaru anukondi aa code antha code editor tool lo new file ani open chesi andhulo code chesi save chesi push chestharu kadha Bro?
+ippudu oka solution file code editor lo open chesamu anukondi list of files kanipistai ga...aa list of files okasare edit chesi save chesi okasare anni push chesyachu kadha Bro?   
+
+
+
